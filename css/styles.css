@@ -1,0 +1,74 @@
+    
+    ul {
+    list-style-type: none;
+}
+    a {
+    text-decoration: none;
+    
+}
+    body {
+    font-family: "Raleway", "Roboto", sans-serif;
+    color: #2E2F42;
+    background-color: #E7E9FC;
+    }
+
+    .page-header {}
+
+    .page-nav {}
+
+    .main-logo {}
+
+    .nav-list {}
+
+    .nav-list-items {}
+
+    .address-list {}
+
+    .address-list-items {}
+
+    .section-hero {}
+
+    .title-hero {}
+
+    .section-feature {}
+
+    .title-feature {}
+
+    .feature-list {}
+
+    .feature-item {}
+
+    .feature-item-title {}
+
+    .feature-item-description {}
+
+    .section-team {}
+
+    .title-team {}
+
+    .team-list {}
+
+    .team-items {}
+
+    .team-items-image {}
+
+    .team-items-title {}
+
+    .team-items-role {}
+
+    .section-portfolio {}
+
+    .title-portfolio {}
+
+    .portfolio-list {}
+
+    .portfolio-items-image {}
+
+    .portfolio-items-title {}
+
+    .portfolio-items-area {}
+
+    .page-footer {}
+
+    .page-footer-text {}
+    
