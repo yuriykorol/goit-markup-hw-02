@@ -200,11 +200,22 @@
         background-color: #2e2f42;
         font-family: 'Raleway', sans-serif;
         font-weight: 700;
-        color: #2E2F42;
+        color: #4d5ae5;
         font-size: 18px;
         letter-spacing: -0.03em;
         line-height: 1.17;
         text-transform: uppercase;
+    }
+
+    .footer-logo {
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        color: #f4f4fd;
+        font-size: 18px;
+        letter-spacing: 0.03em;
+        line-height: 1.17;
+        text-transform: uppercase;
+
     }
 
     .page-footer-text {
