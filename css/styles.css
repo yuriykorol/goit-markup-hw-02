@@ -11,6 +11,7 @@
     font-size: 16px;
     background-color: #ffffff;
     letter-spacing: -0.02em;
+    color: #434455;
     }
 
     .page-header {
@@ -28,7 +29,18 @@
     .main-logo {
         font-family: 'Raleway', sans-serif;
         font-weight: 700;
-        color: #2E2F42;
+        color: #4D5AE5;
+        font-size: 18px;
+        letter-spacing: 0.03em;
+        line-height: 1.17;
+        text-transform: uppercase;
+        
+    }
+    
+    .main-logo-part {
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        color: #2e2f42;
         font-size: 18px;
         letter-spacing: -0.03em;
         line-height: 1.17;
@@ -59,7 +71,10 @@
         color: #2E2F42;
         
     }
-
+    .nav-link:hover,
+    .nav-link:focus {
+        color: #404bbf;
+    }
     .address-list {
         color: #434455;
         font-weight: 400;
@@ -73,8 +88,8 @@
         letter-spacing: 0.02em;
     }
 
-    .address-list-items:hover,
-    .address-list-items:focus {
+    .address-link:hover,
+    .address-link:focus {
         color: #404bbf;
     }
 
@@ -102,15 +117,18 @@
         cursor: pointer;
     }
 
+    .hero-button:hover,
+    .hero-button:focus {
+        color: #404bbf;
+    }
+
     .title-hero {font-weight: 700;
         font-size: 56px;
         color: #ffffff;
+        letter-spacing: 0.02em;
         }
     
-        .address-list-items:hover,
-        .address-list-items:focus {
-            color: #404bbf;
-        }
+
     .section-feature {}
 
     .title-feature {
@@ -127,6 +145,8 @@
     .feature-item-title {
         font-weight: 500;
         font-size: 20px;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
     }
 
     .feature-item-description {
@@ -145,6 +165,7 @@
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        color: #2e2f42;
     }
 
     .team-list {}
@@ -160,6 +181,7 @@
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        color: #2e2f42;
 
     }
 
@@ -177,6 +199,7 @@
         text-align: center;
         letter-spacing: 0.02em;
         text-transform: capitalize;
+        color: #2e2f42;
     }
 
     .portfolio-list {}
@@ -188,6 +211,7 @@
         font-size: 20px;
         line-height: 1.2;
         letter-spacing: 0.02em;
+        color: #2e2f42;
     }
 
     .portfolio-items-area {
@@ -205,9 +229,10 @@
         letter-spacing: -0.03em;
         line-height: 1.17;
         text-transform: uppercase;
+        letter-spacing: 0.03em
     }
 
-    .footer-logo {
+    .footer-logo-part {
         font-family: 'Raleway', sans-serif;
         font-weight: 700;
         color: #f4f4fd;
