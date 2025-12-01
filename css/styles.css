@@ -94,7 +94,6 @@
 
     .section-hero {
         background-color: #2E2F42;
-        height: 600px;
         line-height: 1.07;
         text-align: center;
         letter-spacing: 0.02em;
@@ -127,7 +126,6 @@
     .section-feature {}
 
     .title-feature {
-        display: none;
         letter-spacing: 0.02em;
     }
 
